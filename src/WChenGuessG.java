@@ -18,6 +18,6 @@ public class WChenGuessG {
                 System.out.println("Too Low!");
             }
         }
-        System.out.println("Congradulations! It took you " + nGuess + " tries to get the number" + n + "!");
+        System.out.println("Congradulations! It took you " + nGuess + " tries to get the number " + n + "!");
     }
 }
